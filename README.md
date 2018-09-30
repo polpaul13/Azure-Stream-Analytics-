@@ -1,2 +1,1 @@
-# Azure-Stream-Analytics-
-process a data stream of vehicle observations and answer stream queries.
+You have access to a data stream that’s generated from sensors placed in some checkpoints (toll stations and speed cameras). Each time a car passes by one checkpoint, an event is generated. All cars are equipped with tags that provide the vehicleTypeID and colorID of each car. Tag readers are capable of reading this information. In addition, a camera reads the license plate and completed the event’s data. You are asked to create an Azure Analytics solution for the tasks listed in the “QUERIES” section.
